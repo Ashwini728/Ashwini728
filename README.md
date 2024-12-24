@@ -29,13 +29,12 @@
 - **Databases**: MongoDB  
 - **Web Development**: HTML, CSS, JavaScript,React  
 - **Other Tools**: Git, Jupyter
-- 
+ 
 ---
 
 ## 🤝 Let's Connect  
 - [LinkedIn](https://linkedin.com/in/ashwini-anil)  
-- [GitHub](https://github.com/ashwini-anil)  
-- [Portfolio](https://your-portfolio-link.com)  
+- [GitHub](https://github.com/ashwini728)   
 
 ---
 
