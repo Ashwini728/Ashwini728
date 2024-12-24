@@ -33,7 +33,7 @@
 ---
 
 ## 🤝 Let's Connect  
-- [LinkedIn](https://linkedin.com/in/ashwini-anil)  
+- [LinkedIn](https://linkedin.com/in/ashwini-anil-9ab336282)  
 - [GitHub](https://github.com/ashwini728)   
 
 ---
