@@ -24,24 +24,12 @@
 ---
 
 ## 🔧 Technical Skills  
-- **Programming**: Python, Java, C++  
+- **Programming**: Python, Java, C
 - **AI & ML Tools**: TensorFlow, Scikit-learn, Gemini AI  
 - **Databases**: MongoDB  
-- **Web Development**: HTML, CSS, JavaScript  
-- **Other Tools**: Docker, Git, Jupyter  
-
----
-
-## 📂 Projects  
-### 🚀 **AI Drone for Campus Environmental Monitoring**  
-An AI-powered drone system for real-time monitoring of campus environmental conditions.  
-### 🩺 **Multiple Disease Prediction System**  
-A GenAI-based platform with features like disease prediction, nearby medical centers, and diet recommendations.  
-### 🤝 **Mentoring Platform (Smart India Hackathon)**  
-A platform to connect candidates with industry mentors, featuring automated scheduling, video calls, and chat.  
-### 📺 **YouTube AI Summarizer**  
-A GenAI solution to summarize YouTube videos and extract key points into a notebook for quick review.  
-
+- **Web Development**: HTML, CSS, JavaScript,React  
+- **Other Tools**: Git, Jupyter
+- 
 ---
 
 ## 🤝 Let's Connect  
@@ -55,7 +43,6 @@ A GenAI solution to summarize YouTube videos and extract key points into a noteb
 
 ---
 
-This README highlights your achievements, ongoing projects, and skills while keeping it professional yet approachable. Let me know if you'd like any specific details or changes!## Hi there 👋
 
 <!--
 **Ashwini728/Ashwini728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
