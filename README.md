@@ -35,7 +35,7 @@
 ## 🤝 Let's Connect  
 - [LinkedIn](https://linkedin.com/in/ashwini-anil-9ab336282)  
 - [GitHub](https://github.com/ashwini728)
-- [Instagram](https://instagram.com/ashwinii.anil)   
+- [Instagram](https://instagram.com/ashwinii_anil)   
 
 ---
 
