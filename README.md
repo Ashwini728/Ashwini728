@@ -25,7 +25,7 @@
 
 ## 🔧 Technical Skills  
 - **Programming**: Python, Java, C
-- **AI & ML Tools**: TensorFlow, Scikit-learn, Gemini AI  
+- **AI & ML Tools**: TensorFlow,Gemini AI  
 - **Databases**: MongoDB  
 - **Web Development**: HTML, CSS, JavaScript,React  
 - **Other Tools**: Git, Jupyter
