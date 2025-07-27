@@ -1,13 +1,13 @@
 
 ---
 
-# Hi, I'm Ashwini Anil! 👩‍💻
+# Hi, I'm Ashwini Anil! 
 
 **BTech Computer Science Student** | **AI Enthusiast** | **Innovation Explorer**
 
 ---
 
-## 🌱 About Me  
+## About Me  
 -  I’m pursuing a BTech in Computer Science with a strong focus on Artificial Intelligence, Machine Learning, and Data Science.  
 -  Currently working on Website Development.  
 -  Passionate about solving real-world problems with technology, especially in **healthcare**, **environmental monitoring**, and **social impact.**  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🏆 Achievements  
+##  Achievements  
 -  Participant in **Smart India Hackathon 2024**: Developed a mentoring platform for career guidance and skill development.  
 -  Participated in multiple hackathons, including **GenAI Hackathon** and **Great India Hackathon**, showcasing innovative ideas.  
 -  Completed a **Java Technology Stack Course** on Infosys Springboard.  
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔧 Technical Skills  
+## Technical Skills  
 - **Programming**: Python, Java, C
 - **AI & ML Tools**: TensorFlow,Gemini AI  
 - **Databases**: MongoDB  
@@ -32,7 +32,7 @@
  
 ---
 
-## 🤝 Let's Connect  
+## Let's Connect  
 - [LinkedIn](https://linkedin.com/in/ashwini-anil-9ab336282)  
 - [GitHub](https://github.com/ashwini728)
 - [Instagram](https://instagram.com/ashwinii_anil)
@@ -41,7 +41,7 @@
 
 ---
 
-💬 **Feel free to reach out for collaborations, project ideas, or just to say hi!** 😊  
+**Feel free to reach out for collaborations, project ideas, or just to say hi!**  
 
 ---
 
