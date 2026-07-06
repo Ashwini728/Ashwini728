@@ -7,8 +7,8 @@
 
 ---
 
-## About Me  
--  I’m pursuing a BTech in Computer Science with a strong focus on Artificial Intelligence, Machine Learning, and Data Science.  
+## About 
+-  I’m a graduate BTech in Computer Science with a strong focus on Artificial Intelligence, Machine Learning, and Data Science.  
 -  Currently working on Website Development.  
 -  Passionate about solving real-world problems with technology, especially in **healthcare**, **environmental monitoring**, and **social impact.**  
 -  Recently completed an **Internship in Data Science, AI, and ML using Python** at **Ardent Software**.  
