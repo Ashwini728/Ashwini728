@@ -3,7 +3,7 @@
 
 # Hi, I'm Ashwini Anil! 
 
-**BTech Computer Science Student** | **AI Enthusiast** | **Innovation Explorer**
+**BTech Computer Science Graduate** | **AI/ML Enthusiast** | **Innovation Explorer**
 
 ---
 
